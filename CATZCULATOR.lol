@@ -1,0 +1,5 @@
+HAI 1.2
+
+VISIBLE "Welcome to CATZCULATOR.lol! :3"
+
+KTHXBYE
